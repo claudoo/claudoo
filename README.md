@@ -1,1 +1,1 @@
-# Your Odoo Development Assistant in Claude Code
+# Your Odoo Development Assistant with Claude Code
